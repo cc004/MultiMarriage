@@ -1,2 +1,2 @@
 # MultiMarriage
-a minecraft mod that allows you to marry more than one player.
+a minecraft plugin that allows you to marry more than one player.
